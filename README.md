@@ -13,9 +13,11 @@ The proposed future state improves transaction-status visibility, gives customer
 ## Process maps
 
 ### AS-IS — illustrative current state
+
 ![AS-IS process map](assets/AS-IS.png)
 
 ### TO-BE — proposed future state
+
 ![TO-BE process map](assets/TO-BE.png)
 
 Editable Mermaid source files are available in [`process-maps/`](process-maps/).
@@ -38,10 +40,11 @@ Editable Mermaid source files are available in [`process-maps/`](process-maps/).
 ## Repository guide
 
 ```text
-LUMIQ_BA_Portfolio_Package/
+LUMIQ-Bank-App-BA-Case-Study/
 ├── README.md
 ├── LUMIQ_Business_Analysis_Case_Study.pdf
 ├── LUMIQ_Business_Analysis_Case_Study.docx
+├── GITHUB_PUBLISHING_GUIDE.md
 ├── assets/
 │   ├── AS-IS.png
 │   ├── AS-IS.svg
