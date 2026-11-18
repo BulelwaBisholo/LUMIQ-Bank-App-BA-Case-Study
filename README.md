@@ -44,7 +44,6 @@ LUMIQ-Bank-App-BA-Case-Study/
 ├── README.md
 ├── LUMIQ_Business_Analysis_Case_Study.pdf
 ├── LUMIQ_Business_Analysis_Case_Study.docx
-├── GITHUB_PUBLISHING_GUIDE.md
 ├── assets/
 │   ├── AS-IS.png
 │   ├── AS-IS.svg
