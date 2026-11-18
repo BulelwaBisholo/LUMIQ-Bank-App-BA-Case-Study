@@ -1,0 +1,9 @@
+flowchart LR
+ A[Customer submits payment] --> B[Payment service processes request]
+ B --> C[App status unclear or delayed]
+ C --> D[Customer checks again or contacts Support]
+ D --> E[Support requests investigation]
+ E --> F[Payments Operations investigates]
+ F --> G[Customer receives update]
+ G --> H[Case closes]
+ C -. Potential gaps to validate .-> I[Unclear status • escalation target • proactive updates • feedback loop]
